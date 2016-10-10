@@ -1,14 +1,14 @@
 {
   "product":{
-    "domain":"cloudcharge.com/services",
+    "domain":"qa.cloudcharge.com/services",
     "security":"true"
   },
   "uom":{
-    "domain":"cloudcharge.com/services",
+    "domain":"qa.cloudcharge.com/services",
     "security":"true"
   },
   "commondata":{
-    "domain":"cloudcharge.com/services",
+    "domain":"qa.cloudcharge.com/services",
     "security":"true"
   },
   "settings":{
@@ -16,39 +16,39 @@
     "security":"false"
   },
   "tax":{
-    "domain":"cloudcharge.com/services",
+    "domain":"qa.cloudcharge.com/services",
     "security":"false"
   },
   "promotion":{
-    "domain":"cloudcharge.com/services",
+    "domain":"qa.cloudcharge.com/services",
     "security":"true"
   },
   "promotionDetail":{
-    "domain":"cloudcharge.com/services",
+    "domain":"qa.cloudcharge.com/services",
     "security":"true"
   },
   "profile":{
-    "domain":"cloudcharge.com/services",
+    "domain":"qa.cloudcharge.com/services",
     "security":"true"
   },
   "order":{
-    "domain":"cloudcharge.com/services",
+    "domain":"qa.cloudcharge.com/services",
     "security":"true"
   },
   "invoice":{
-    "domain":"cloudcharge.com/services",
+    "domain":"qa.cloudcharge.com/services",
     "security":"true"
   },
   "billing":{
-    "domain":"cloudcharge.com/services",
+    "domain":"qa.cloudcharge.com/services",
     "security":"true"
   },
   "stock":{
-    "domain":"cloudcharge.com/services",
+    "domain":"qa.cloudcharge.com/services",
     "security":"true"
   },
   "payment":{
-    "domain":"cloudcharge.com/services",
+    "domain":"qa.cloudcharge.com/services",
     "security":"true"
   },
   "email":{
@@ -60,32 +60,32 @@
     "security":"none"
   },
   "ledger":{
-    "domain":"cloudcharge.com/services",
+    "domain":"qa.cloudcharge.com/services",
     "security":"true"
   },
   "inventory":{
-    "domain":"cloudcharge.com/services",
+    "domain":"qa.cloudcharge.com/services",
     "security":"true"
   },
   "expense":{
-    "domain":"cloudcharge.com/services",
+    "domain":"qa.cloudcharge.com/services",
     "security":"true"
   },
   "adjustment":{
-    "domain":"cloudcharge.com/services",
+    "domain":"qa.cloudcharge.com/services",
     "security":"true"
   },
   "job":{
-    "domain":"cloudcharge.com:8000",
+    "domain":"qa.cloudcharge.com:8000",
     "authorization":"authkey",
     "security":"none"
   },
   "flowtrans":{
-    "domain":"cloudcharge.com/services",
+    "domain":"qa.cloudcharge.com/services",
     "security":"true"
   },
   "process":{
-    "domain":"cloudcharge.com/services",
+    "domain":"qa.cloudcharge.com/services",
     "security":"true"
   },
   "bulkupload":{
@@ -97,11 +97,11 @@
     "security":"true"
   },
   "document":{
-    "domain":"cloudcharge.com/services",
+    "domain":"qa.cloudcharge.com/services",
     "security":"true"
   },
   "Campaign":{
-	"domain":"cloudcharge.com/services",
+	"domain":"qa.cloudcharge.com/services",
     	"security":"true"
    },
   "CampaignSettings":{
@@ -109,23 +109,23 @@
 	"security":"true"
    },
   "dashboard":{
-    "domain":"cloudcharge.com/services",
+    "domain":"qa.cloudcharge.com/services",
     "security":"true"
   },
   "paymentgateway":{
-    "domain":"cloudcharge.com/services",
+    "domain":"qa.cloudcharge.com/services",
     "security":"true"
   },
   "accountprofile":{
-    "domain":"cloudcharge.com",
+    "domain":"qa.cloudcharge.com",
     "security":"true"
   },
   "apprestrict":{
-    "domain":"cloudcharge.com",
+    "domain":"qa.cloudcharge.com",
     "security":"true"
   },
   "common":{
-    "domain":"104.197.125.112:3048",
+    "domain":"qa.cloudcharge.com:3048",
     "security":"true",
 	"authorization":"none"
   }
