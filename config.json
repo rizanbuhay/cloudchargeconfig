@@ -126,7 +126,7 @@
   },
   "common":{
     "domain":"qa.cloudcharge.com:3048",
-    "security":"true",
+    "security":"none",
 	"authorization":"none"
   }
 }
