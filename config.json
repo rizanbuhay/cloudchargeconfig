@@ -126,7 +126,7 @@
   },
   "common":{
     "domain":"104.197.125.112:3048",
-    "security":"true",
+    "security":"none",
 	"authorization":"none"
   }
 }
